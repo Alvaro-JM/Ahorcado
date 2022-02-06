@@ -1,0 +1,32 @@
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\bin\Debug\Ahorcado.exe.config
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\bin\Debug\Ahorcado.exe
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.Principal.resources
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.exe
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.pdb
+D:\Alvaro\2_DAM\DI\Ahorcado\bin\Debug\Ahorcado.exe.config
+D:\Alvaro\2_DAM\DI\Ahorcado\bin\Debug\Ahorcado.exe
+D:\Alvaro\2_DAM\DI\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.Principal.resources
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.exe
+D:\Alvaro\2_DAM\DI\Ahorcado\obj\Debug\Ahorcado.pdb
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.AdminControl.resources
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\bin\Debug\Ahorcado.exe.config
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\bin\Debug\Ahorcado.exe
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\bin\Debug\Ahorcado.pdb
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.AdminControl.resources
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.Principal.resources
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.exe
+D:\Alvaro\2_DAM\DI\2. GUI con Visual Studio\Juego Ahorcado - Proyecto\Ahorcado\obj\Debug\Ahorcado.pdb
